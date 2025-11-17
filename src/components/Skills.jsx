@@ -12,8 +12,10 @@ export function Skills() {
         { name: "JavaScript", level: 88 },
         { name: "TypeScript", level: 45 },
         { name: "React", level: 75 },
-        { name: "Tailwind CSS", level: 92 },
-        { name: "Bootstrap", level: 85 }
+        { name: "Tailwind CSS", level: 85 },
+        { name: "Bootstrap", level: 85 },
+        {name: "Wordpress", level: 85},
+        {name: "Elementor Pro", level: 85}
       ],
       color: "from-blue-500 to-cyan-500"
     },
@@ -23,7 +25,6 @@ export function Skills() {
         { name: "Node.js", level: 85 },
         { name: "Express", level: 82 },
         { name: "PHP", level: 80 },
-        { name: "Laravel", level: 78 },
         { name: "MySQL", level: 88 },
         { name: "Firebase", level: 75 },
         { name: "Supabase", level: 80 }

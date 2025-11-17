@@ -16,6 +16,14 @@ export function Projects() {
       featured: true
     },
     {
+      title: "Company Profile",
+      description: "Website Pramuka sd al irsyad al islamiyyah 02 purwokerto",
+      image: "https://images.unsplash.com/photo-1593442257276-1895e27c8ed6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBvZmZpY2UlMjBkZXNrJTIwY29kaW5nfGVufDF8fHx8MTc2MDAyMDYxMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["Wordpress", "Elementor Pro",  "HTML", "CSS"],
+      demo: "https://pramuka.sdalirsyad02pwt.sch.id/",
+      featured: true
+    },
+    {
       title: "Pendaftaran Siswa Baru",
       description: "Website Pendaftaran Siswa Baru untuk sekolah menengah pertama",
       image: "https://images.unsplash.com/photo-1517512006864-7edc3b933137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9ncmFtbWluZyUyMGxhcHRvcHxlbnwxfHx8fDE3NjAwMjA2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
@@ -49,6 +57,24 @@ export function Projects() {
       tags: ["React.JS", "taiwlind", "Supabase"],
       github: "#",
       demo: "https://villa-booking-plum.vercel.app/",
+      featured: true
+    },
+    {
+      title: "Website Home Visit",
+      description: "Website untuk pencatatan hasil kunjungan ke rumah rumah murid",
+      image: "https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wZXIlMjB3b3Jrc3BhY2V8ZW58MXx8fHwxNzU5OTM2Njg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["React.JS", "taiwlind", "Supabase"],
+      github: "#",
+      demo: "https://homevisit-level2.vercel.app/",
+      featured: true
+    },
+    {
+      title: "Website POS Management",
+      description: "Website ini memiliki fungsi seperti kasir",
+      image: "https://images.unsplash.com/photo-1660810731526-0720827cbd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wZXIlMjB3b3Jrc3BhY2V8ZW58MXx8fHwxNzU5OTM2Njg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["React.JS", "taiwlind", "Supabase"],
+      github: "#",
+      demo: "https://pos-management-yf29.vercel.app/",
       featured: true
     },
   ];
