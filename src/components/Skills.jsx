@@ -24,7 +24,7 @@ export function Skills() {
       skills: [
         { name: "Node.js", level: 85 },
         { name: "Express", level: 82 },
-        { name: "PHP", level: 80 },
+        { name: "PHP", level: 50 },
         { name: "MySQL", level: 88 },
         { name: "Firebase", level: 75 },
         { name: "Supabase", level: 80 }
@@ -34,12 +34,11 @@ export function Skills() {
     {
       category: "Tools & Others",
       skills: [
-        { name: "Git", level: 90 },
         { name: "GitHub", level: 88 },
         { name: "VS Code", level: 95 },
         { name: "Figma", level: 85 },
-        { name: "Postman", level: 82 },
-        { name: "REST API", level: 88 },
+        { name: "Postman", level: 75 },
+        { name: "REST API", level: 80 },
       ],
       color: "from-purple-500 to-pink-500"
     }
